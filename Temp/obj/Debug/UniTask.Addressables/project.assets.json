@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "UniTask/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/UniTask.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniTask.dll": {}
+        }
+      },
+      "Unity.Addressables/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Unity.ResourceManager": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Unity.Addressables.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.Addressables.dll": {}
+        }
+      },
+      "Unity.ResourceManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Unity.ResourceManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Unity.ResourceManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniTask/1.0.0": {
+      "type": "project",
+      "path": "UniTask.csproj",
+      "msbuildProject": "UniTask.csproj"
+    },
+    "Unity.Addressables/1.0.0": {
+      "type": "project",
+      "path": "Unity.Addressables.csproj",
+      "msbuildProject": "Unity.Addressables.csproj"
+    },
+    "Unity.ResourceManager/1.0.0": {
+      "type": "project",
+      "path": "Unity.ResourceManager.csproj",
+      "msbuildProject": "Unity.ResourceManager.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "UniTask >= 1.0.0",
+      "Unity.Addressables >= 1.0.0",
+      "Unity.ResourceManager >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/botansahin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/UniTask.Addressables.csproj",
+      "projectName": "UniTask.Addressables",
+      "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/UniTask.Addressables.csproj",
+      "packagesPath": "/Users/botansahin/.nuget/packages/",
+      "outputPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Temp/obj/Debug/UniTask.Addressables/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/botansahin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/UniTask.csproj": {
+              "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/UniTask.csproj"
+            },
+            "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.Addressables.csproj": {
+              "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.Addressables.csproj"
+            },
+            "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.ResourceManager.csproj": {
+              "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.ResourceManager.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

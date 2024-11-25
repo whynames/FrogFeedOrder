@@ -1,0 +1,416 @@
+{
+  "nodes": [
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 1,
+            "color": 0,
+            "facing": 2
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 0,
+            "color": 0,
+            "facing": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 1,
+            "color": 1,
+            "facing": 2
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 1,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 1,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 0,
+            "color": 1,
+            "facing": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 1,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 1,
+            "color": 2,
+            "facing": 2
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 0,
+            "color": 2,
+            "facing": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 1,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 2
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 0,
+            "color": 0,
+            "facing": 3
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 0,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 1,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 1,
+            "facing": 1
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 0,
+            "color": 1,
+            "facing": 3
+          }
+        ]
+      }
+    ]
+  ],
+  "rows": 5,
+  "columns": 5
+}

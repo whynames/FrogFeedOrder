@@ -1,0 +1,54 @@
+1. **Verify Information**: Always verify information before presenting it. Do not make assumptions or speculate without clear evidence.2. **File-by-File Changes**: Make changes file by file and give me a chance to spot mistakes.3. **No Apologies**: Never use apologies.4. **No Understanding Feedback**: Avoid giving feedback about understanding in comments or documentation.5. **No Whitespace Suggestions**: Don't suggest whitespace changes.6. **No Summaries**: Don't summarize changes made.7. **No Inventions**: Don't invent changes other than what's explicitly requested.8. **No Unnecessary Confirmations**: Don't ask for confirmation of information already provided in the context.9. **Preserve Existing Code**: Don't remove unrelated code or functionalities. Pay attention to preserving existing structures.10. **Single Chunk Edits**: Provide all edits in a single chunk instead of multiple-step instructions or explanations for the same file.11. **No Implementation Checks**: Don't ask the user to verify implementations that are visible in the provided context.12. **No Unnecessary Updates**: Don't suggest updates or changes to files when there are no actual modifications needed.13. **Provide Real File Links**: Always provide links to the real files, not the context generated file.14. **No Current Implementation**: Don't show or discuss the current implementation unless specifically requested.15. **Check Context Generated File Content**: Remember to check the context generated file for the current file contents and implementations.16. **Use Explicit Variable Names**: Prefer descriptive, explicit variable names over short, ambiguous ones to enhance code readability.17. **Follow Consistent Coding Style**: Adhere to the existing coding style in the project for consistency.18. **Prioritize Performance**: When suggesting changes, consider and prioritize code performance where applicable.19. **Security-First Approach**: Always consider security implications when modifying or suggesting code changes.20. **Test Coverage**: Suggest or include appropriate unit tests for new or modified code.21. **Error Handling**: Implement robust error handling and logging where necessary.22. **Modular Design**: Encourage modular design principles to improve code maintainability and reusability.23. **Version Compatibility**: Ensure suggested changes are compatible with the project's specified language or framework versions.24. **Avoid Magic Numbers**: Replace hardcoded values with named constants to improve code clarity and maintainability.25. **Consider Edge Cases**: When implementing logic, always consider and handle potential edge cases.26. **Use Assertions**: Include assertions wherever possible to validate assumptions and catch potential errors early. **No GameObjects**: When you develop for unity, avoid using Gameobjects as fields or parameters. Always use the exact type. Avoid using strings for game logic too. Add necessary using namespaces when needed. **No Text**:Don't use legacy text class for ui, use TMP when you need a text. Always provide code snippets, no long explanations, no yapping.
+
+This is the game I am making.
+
+CORE FEATURES
+Game Mechanics
+1. The game map consists of square nodes (not hex nodes as in the reference). Each node contains multiple cells.
+2. Cells can house one of three elements: a Frog, an Arrow, or a Berry, each available in four color variations
+3. The goal is to feed all the frogs by triggering them in the correct order.
+Frog Interaction
+4. Frogs and arrows can face up, down, left, or right. Frogs on border cells should not face outward.
+5. Players interact with frogs by left clicking. Triggered frogs extend their tongue in the faced direction.
+6. Frogs collect berries of the same color by moving their tongue across cells.
+7. If the tongue collects berries successfully, it continues to the last cell in its path, then retracts while gathering
+the berries.
+8. If the tongue encounters an incorrect-colored berry or other element, it retracts without collecting any
+berries.
+9. You should prepare proper tongue visual and necessary animations yourself.
+Cell and Node Behavior
+10. Nodes can stack multiple cells, with only the top cell's content active at any time.
+• For example, in a node with red, yellow, and green berries (stacked bottom to top), the green berry is
+active initially.
+• When a tongue collects berries, the top cell disappears, and the next cell becomes active.
+11. Once a frog successfully eats its berries, its cell and the frog are deactivated.
+Directional Changes with Arrows
+12. If a tongue touches a same-colored arrow, the tongue’s direction changes to match the arrow.
+Win/Lose Conditions
+13. The player wins when all frogs have eaten their berries (i.e., all frogs are deactivated).
+14. The game includes a Move Limit, where each frog interaction consumes one move. Running out of moves
+before feeding all frogs results in a loss.
+Levels and Assets
+15. Design three levels with increasing complexity.
+16. Use the provided assets where applicable.
+Camera and Visuals
+17. Use an orthographic main camera with a perspective matching the reference.
+18. Visual polish is crucial—pay attention to animations, colors, camera angles, particle effects, etc.
+BONUS OBJECTIVE
+• Develop a Level Editor for the game, enabling quick and intuitive level creation. Although it is not
+mandatory, it is highly valued and will be evaluated carefully.
+TECHNICAL EXPECTATIONS
+Programming Principles
+• Object-Oriented Programming (OOP):
+▪ Polymorphism
+▪ Inheritance
+• Design Principles:
+▪ S.O.L.I.D.
+▪ Design Patterns (Singleton, Observer, MVC/MVVM)
+Optimization
+• Optimize draw calls.
+• Use coroutines and events effectively.
+Code Quality
+• Write clean, reusable, and maintainable code.
+• Organize folders logically and efficiently.
+Game will use vContainer for design, and will use unitask for all asynchronous operations 

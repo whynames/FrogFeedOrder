@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea8d505f63cf4bc5a13d68dec901457, type: 3}
+  m_Name: PrefabFactory
+  m_EditorClassIdentifier: 
+  nodePrefab: {fileID: -8478222799320518953, guid: b23d904401a244038b4b311f7481619b, type: 3}
+  cellPrefab: {fileID: 6375399043872030017, guid: ac5762b521ea449798f0f2f37ff72499, type: 3}
+  frogPrefab: {fileID: 1494834700455387492, guid: a060ca675cb9d4be09b6c53bef8f4da7, type: 3}
+  arrowPrefab: {fileID: 6265948233083017471, guid: 3f6a979bd71bd4f64b20aeba1018da0e, type: 3}
+  berryPrefab: {fileID: 8502699466606293208, guid: 82e8e2fe9420840a9afde080eb1029ff, type: 3}

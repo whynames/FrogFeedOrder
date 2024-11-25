@@ -1,0 +1,671 @@
+{
+  "nodes": [
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 0,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 0,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 0,
+            "color": 1,
+            "facing": 0
+          },
+          {
+            "type": 0,
+            "color": 0,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "cells": [
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          },
+          {
+            "type": 2,
+            "color": 2,
+            "facing": 0
+          }
+        ]
+      }
+    ]
+  ],
+  "rows": 5,
+  "columns": 5
+}

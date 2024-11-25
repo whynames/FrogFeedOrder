@@ -1,0 +1,17 @@
+# Add directories or file patterns to ignore during indexing (e.g. foo/ or *.csv)
+Library/
+ProjectSettings/
+Logs/
+UserSettings/
+*.csproj
+*.sln
+*.unityproj
+*.userprefs
+*.asset
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.meta

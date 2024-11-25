@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "UniTask/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/UniTask.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniTask/1.0.0": {
+      "type": "project",
+      "path": "UniTask.csproj",
+      "msbuildProject": "UniTask.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "UniTask >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/botansahin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/VContainer.csproj",
+      "projectName": "VContainer",
+      "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/VContainer.csproj",
+      "packagesPath": "/Users/botansahin/.nuget/packages/",
+      "outputPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Temp/obj/Debug/VContainer/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/botansahin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {
+            "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/UniTask.csproj": {
+              "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/UniTask.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

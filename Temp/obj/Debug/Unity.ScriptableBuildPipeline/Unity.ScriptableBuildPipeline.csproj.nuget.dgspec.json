@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.ScriptableBuildPipeline.csproj": {}
+  },
+  "projects": {
+    "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.ScriptableBuildPipeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.ScriptableBuildPipeline.csproj",
+        "projectName": "Unity.ScriptableBuildPipeline",
+        "projectPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Unity.ScriptableBuildPipeline.csproj",
+        "packagesPath": "/Users/botansahin/.nuget/packages/",
+        "outputPath": "/Users/botansahin/Documents/UnityProjects/FrogFeedOrder/Temp/obj/Debug/Unity.ScriptableBuildPipeline/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/botansahin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
