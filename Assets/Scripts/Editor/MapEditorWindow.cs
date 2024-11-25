@@ -235,7 +235,6 @@ public class MapEditorWindow : EditorWindow
                 node.Cells.Push(cells[i]);
             }
         }
-        Debug.Log("Swapped cells");
     }
 
     private void AddCell(EditorNode node, CellType type)

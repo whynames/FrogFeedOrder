@@ -30,7 +30,7 @@ public class LevelManager
 
     private void OnMovesExhausted()
     {
-        Debug.Log("Moves exhausted");
+
     }
 
     private void HandleFrogShootFinished(Frog frog)

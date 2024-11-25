@@ -1123,6 +1123,7 @@
     <ProjectReference Include="Assembly-CSharp.csproj" />
     <ProjectReference Include="UnityEditor.TestRunner.csproj" />
     <ProjectReference Include="UnityEngine.TestRunner.csproj" />
+    <ProjectReference Include="Unity.Recorder.Editor.csproj" />
     <ProjectReference Include="PrimeTween.Installer.csproj" />
     <ProjectReference Include="UnityHFSM.csproj" />
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj" />
@@ -1135,6 +1136,7 @@
     <ProjectReference Include="UniTask.DOTween.csproj" />
     <ProjectReference Include="UniTask.Addressables.csproj" />
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj" />
+    <ProjectReference Include="Unity.Recorder.Base.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Core.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj" />
     <ProjectReference Include="Unity.Rider.Editor.csproj" />
@@ -1153,6 +1155,7 @@
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj" />
+    <ProjectReference Include="Unity.Recorder.csproj" />
     <ProjectReference Include="UniTask.csproj" />
     <ProjectReference Include="Unity.VisualScripting.State.csproj" />
     <ProjectReference Include="Unity.VSCode.Editor.csproj" />

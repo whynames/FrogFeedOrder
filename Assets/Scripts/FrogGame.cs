@@ -28,8 +28,6 @@ public class FrogGame : LifetimeScope
         builder.RegisterInstance<PrefabFactory>(prefabFactory);
         builder.Register<SpriteProvider>(Lifetime.Singleton);
         builder.RegisterEntryPoint<GameStateMachine>(Lifetime.Singleton);
-        builder.Register<MapCreator>(Lifetime.Singleton);
-        builder.Register<GameManager>(Lifetime.Singleton);
         builder.Register<LevelManager>(Lifetime.Singleton);
         builder.Register<MapLoader>(Lifetime.Singleton);
         builder.Register<InputHandler>(Lifetime.Singleton);

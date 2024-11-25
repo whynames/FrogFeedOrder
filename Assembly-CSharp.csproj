@@ -65,29 +65,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/States/GameStateMachine.cs" />
-    <Compile Include="Assets/Scripts/MapLoader.cs" />
+    <Compile Include="Assets/Scripts/Map/Node.cs" />
+    <Compile Include="Assets/Scripts/UI/UIView.cs" />
     <Compile Include="Assets/Scripts/FrogGame.cs" />
     <Compile Include="Assets/Scripts/InputHandler.cs" />
     <Compile Include="Assets/Scripts/MoveManager.cs" />
-    <Compile Include="Assets/Scripts/UIView.cs" />
-    <Compile Include="Assets/Scripts/Berry.cs" />
+    <Compile Include="Assets/Scripts/CellOwners/Arrow.cs" />
+    <Compile Include="Assets/Scripts/CellOwners/Berry.cs" />
     <Compile Include="Assets/Scripts/States/GameState.cs" />
     <Compile Include="Assets/Scripts/SpriteProvider.cs" />
-    <Compile Include="Assets/Scripts/Tongue.cs" />
-    <Compile Include="Assets/Scripts/MapCreator.cs" />
+    <Compile Include="Assets/Scripts/CellOwners/Frog.cs" />
     <Compile Include="Assets/Scripts/Events/GameEvents.cs" />
     <Compile Include="Assets/Scripts/LevelManager.cs" />
     <Compile Include="Assets/Scripts/Enums/CellColor.cs" />
     <Compile Include="Assets/Scripts/Enums/Direction.cs" />
-    <Compile Include="Assets/Scripts/Frog.cs" />
-    <Compile Include="Assets/Scripts/Node.cs" />
-    <Compile Include="Assets/Scripts/GameManager.cs" />
-    <Compile Include="Assets/Scripts/Arrow.cs" />
+    <Compile Include="Assets/Scripts/Map/Cell.cs" />
     <Compile Include="Assets/Scripts/AudioManager.cs" />
-    <Compile Include="Assets/Scripts/MapData.cs" />
-    <Compile Include="Assets/Scripts/Cell.cs" />
-    <Compile Include="Assets/Scripts/UIManager.cs" />
-    <Compile Include="Assets/Scripts/FrogAnimation.cs" />
+    <Compile Include="Assets/Scripts/Map/MapLoader.cs" />
+    <Compile Include="Assets/Scripts/UI/UIManager.cs" />
+    <Compile Include="Assets/Scripts/CellOwners/Tongue.cs" />
+    <Compile Include="Assets/Scripts/Map/MapData.cs" />
     <Compile Include="Assets/Scripts/PrefabFactory.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -992,6 +989,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.Recorder.Editor.csproj" />
     <ProjectReference Include="PrimeTween.Installer.csproj" />
     <ProjectReference Include="UnityHFSM.csproj" />
     <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj" />
@@ -1004,6 +1002,7 @@
     <ProjectReference Include="UniTask.DOTween.csproj" />
     <ProjectReference Include="UniTask.Addressables.csproj" />
     <ProjectReference Include="Unity.VisualStudio.Editor.csproj" />
+    <ProjectReference Include="Unity.Recorder.Base.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Core.csproj" />
     <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj" />
     <ProjectReference Include="Unity.Rider.Editor.csproj" />
@@ -1022,6 +1021,7 @@
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.csproj" />
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj" />
+    <ProjectReference Include="Unity.Recorder.csproj" />
     <ProjectReference Include="UniTask.csproj" />
     <ProjectReference Include="Unity.VisualScripting.State.csproj" />
     <ProjectReference Include="Unity.VSCode.Editor.csproj" />
